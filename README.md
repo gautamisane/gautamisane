@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gautamisane
 - 👀 I’m interested in JAVA, Web Development and Databases!
-- 🌱 I’m currently learning (or say re-learning) the concepts of C and Java.
+- 🌱 I’m currently learning (or say re-learning) the concepts of C, Java, Machine Learning.
 - 📫 You can reach me on linkedin and instagram! @gautami_sane_ 
 
 <!---
